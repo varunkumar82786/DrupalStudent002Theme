@@ -1,0 +1,20 @@
+name = marketing
+description = description for marketing theme
+core = 7.x
+
+;regions
+regions[navigation] = Navigation
+regions[banner] = Banner
+regions[mission] = Mission
+regions[sidebar] = Sidebar
+regions[footer] = Footer
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+regions[image_first] = Image first
+regions[image_second] = Image second
+
+;region hidden
+regions[content] = Content
+
+;stylesheets
+;stylesheets[all][] = css/style.css

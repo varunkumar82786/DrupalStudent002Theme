@@ -1,0 +1,14 @@
+name = blog1
+description = description for blog1
+core = 7.x
+
+;regions
+regions[header] = Header
+regions[sidebar] = Sidebar
+regions[content] = Content
+regions[footer] = Footer
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+
+;css
+stylesheets[all][] = css/style.css
